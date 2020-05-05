@@ -1,0 +1,1 @@
+alert('Developed by Ysera');
